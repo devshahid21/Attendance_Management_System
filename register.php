@@ -223,3 +223,5 @@ unset($_SESSION['error']);
 
 
 <!-- this is shaid  -->
+<?php 
+echo"<h1>Hello EveryOne</h1>";
