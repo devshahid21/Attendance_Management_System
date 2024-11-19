@@ -221,7 +221,6 @@ unset($_SESSION['registration_errors']);
 unset($_SESSION['error']);
 ?>
 
+<!-- this is shahid what sis done  -->
 
-<!-- this is shaid  -->
-<?php 
-echo"<h1>Hello EveryOne</h1>";
+<!-- i am new  -->
